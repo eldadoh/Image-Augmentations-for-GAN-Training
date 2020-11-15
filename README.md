@@ -1,5 +1,10 @@
 # Image-Augmentations-for-GAN-Training
 
+
+Data augmentations have been widely studied to improve the accuracy and robustness of classifiers. However, the potential of image augmentation in improving GAN models for image synthesis has not been thoroughly investigated in previous studies. In this work, we followed the systematically study of the "Image Augmentations for GAN Training" writers, and recover some of their results, while we implemented more new augmentation techniques for GAN training in a variety of settings. We validate the claim that augmentation for real and fake images before Discriminator phase, does improve the learning while. We also validate the claim that augmentations that result in spatial changes improve the GAN performance more than those that induce mostly visual changes.
+
+We followed the systematically analysis method for evaluating the results using FID measurement. Our analysis was built from combining many pieces of codes, and using new code for augmentation implementation, and for experiments and analysis.
+
 1. Structure of the code:
 	folders hyrarchy:
 	./src/					- main source code (explanation next)
