@@ -119,4 +119,4 @@ Our analysis was built from combining many pieces of codes, and using new code f
 		- srun -c 2 --gres=gpu:1 --pty jupyter-lab.sh
 		
 			
-![Optional Text](../master/assets/1.png)
+![Optional Text](../eldadoh/assets/1.png)
