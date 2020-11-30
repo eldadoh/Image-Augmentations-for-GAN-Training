@@ -119,4 +119,4 @@ Our analysis was built from combining many pieces of codes, and using new code f
 		- srun -c 2 --gres=gpu:1 --pty jupyter-lab.sh
 		
 			
-![Optional Text](../master/myFolder/1.PNG)
+![Optional Text](https://raw.githubusercontent.com/eldadoh/Image-Augmentations-for-GAN-Training/main/assets/1.JPG)
