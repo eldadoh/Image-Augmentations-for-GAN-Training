@@ -19,6 +19,28 @@ We followed the systematically analysis method for evaluating the results using 
 Our analysis was built from combining many pieces of codes, and using new code for augmentation implementation, and for experiments and analysis.
 
 
+
+			
+![Optional Text](https://raw.githubusercontent.com/eldadoh/Image-Augmentations-for-GAN-Training/main/assets/1.JPG)
+
+
+![Optional Text](https://raw.githubusercontent.com/eldadoh/Image-Augmentations-for-GAN-Training/main/assets/2.JPG)
+
+
+![Optional Text](https://raw.githubusercontent.com/eldadoh/Image-Augmentations-for-GAN-Training/main/assets/3.JPG)
+
+
+![Optional Text](https://raw.githubusercontent.com/eldadoh/Image-Augmentations-for-GAN-Training/main/assets/4.JPG)
+
+
+![Optional Text](https://raw.githubusercontent.com/eldadoh/Image-Augmentations-for-GAN-Training/main/assets/5.JPG)
+
+
+![Optional Text](https://raw.githubusercontent.com/eldadoh/Image-Augmentations-for-GAN-Training/main/assets/6.JPG)
+
+
+
+
 1. Structure of the code:
 
 		folders hyrarchy:
@@ -118,5 +140,6 @@ Our analysis was built from combining many pieces of codes, and using new code f
 	
 		- srun -c 2 --gres=gpu:1 --pty jupyter-lab.sh
 		
-			
-![Optional Text](https://raw.githubusercontent.com/eldadoh/Image-Augmentations-for-GAN-Training/main/assets/1.JPG)
+
+
+
