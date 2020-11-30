@@ -119,14 +119,14 @@ Our analysis was built from combining many pieces of codes, and using new code f
 		- srun -c 2 --gres=gpu:1 --pty jupyter-lab.sh
 		
 			
-!(https://ibb.co/hYXR9dm)
+!(1.PNG)
 
-(https://ibb.co/j47c7VL)
+!(2.PNG)
 
-![alt text](https://ibb.co/gyV7CdQ)
+!(3.PNG)
 
-![alt text](https://ibb.co/jvnwPT7)
+!(4.PNG)
 
-![alt text](https://ibb.co/RN46QHw)
+!(5.PNG)
 
-![alt text](https://ibb.co/vBsbHjL)
+!(6.PNG)
